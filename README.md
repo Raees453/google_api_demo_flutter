@@ -1,10 +1,8 @@
-# youtube_api_demo
-
-A new Flutter project.
+# Google Api's Implementation
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about implementing and getting hands on practice on the google apis using flutter. The code works fine for logged in users to the account and once logged in displays their favourite videos and their calendar events to screen in a nice manner!.
 
 A few resources to get you started if this is your first Flutter project:
 
